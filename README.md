@@ -6,7 +6,7 @@ Post url: https://ajq22b8j8i.execute-api.eu-central-1.amazonaws.com/users/users
 
 POST BODY Example: {"uuid":"default","name":"adam","age":"30"} 
 
-When POST is done returns the guid to the body
+When POST is done it returns the guid to the body
 
 You can try using them through your browser or postman. 
 
