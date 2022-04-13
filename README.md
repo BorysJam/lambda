@@ -1,5 +1,6 @@
-Example get url: https://ajq22b8j8i.execute-api.eu-central-1.amazonaws.com/users/users?user_id=99fd79e4-b888-43be-8dff-1f80e407b77e
->>>>where user_id is the generated guid for this example it is 99fd79e4-b888-43be-8dff-1f80e407b77e
+Example GET url: https://ajq22b8j8i.execute-api.eu-central-1.amazonaws.com/users/users?user_id=99fd79e4-b888-43be-8dff-1f80e407b77e
+
+In the GET url user_id = the generated guid for this example it is 99fd79e4-b888-43be-8dff-1f80e407b77e
 
 Post url: https://ajq22b8j8i.execute-api.eu-central-1.amazonaws.com/users/users
 
