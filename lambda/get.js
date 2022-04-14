@@ -22,7 +22,6 @@ async function listItems(event){
   }
 }
 exports.handler = async (event) => {
-    console.log('inside lambda irena..');
     if(event.httpMethod === "GET"){
         return listItems(event);
     }
